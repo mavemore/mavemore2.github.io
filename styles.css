@@ -1,0 +1,52 @@
+body{
+	font-family: Calibri, Times, serif;
+	margin: 5% 20%;
+}
+#contenido h2~p, #contenido ul{
+	margin: -4.3% 0 8% 20%;
+}
+ul{
+	list-style-type: none; 
+}
+h2{
+	font-size: 1.1em;
+	color: #e57339;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#info, #about p, .ciudad, .duracion{
+	color: #838383;
+}
+.descripcion{
+	color:#b1b0b0;
+}
+.lugar, .cargo, .nomproyecto{
+	font-size:1.05em;
+	font-weight: bolder;
+}
+.empresa, .titulo{
+	font-weight:bold;
+}
+#info{
+	margin: 0 0 5% -6.3%;
+}
+#info li{
+	display: inline;
+	border-right: 1px solid #838383;
+	padding: 0 0.5em;
+}
+#info li:last-child{
+	border:0;
+}
+#contact a{
+	text-decoration: none;
+	color: #e57339;
+}
+h1{
+	font-size: 2em;
+	margin: -1% 0;
+}
+#about p{
+	padding: 0 5.4%;
+}
